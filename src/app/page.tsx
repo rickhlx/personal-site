@@ -198,7 +198,7 @@ function Resume() {
   let resume: Array<Role> = [
     {
       company: 'Watchtower',
-      title: 'Systems Architect',
+      title: 'Senior Systems Engineer',
       logo: logoWt,
       start: '2018',
       end: {
@@ -208,17 +208,17 @@ function Resume() {
     },
     {
       company: 'Olo',
-      title: 'Cloud Systems Engineer',
+      title: 'DevOps Engineer',
       logo: logoOlo,
-      start: '2017',
+      start: '2016',
       end: '2018',
     },
     {
       company: 'WSOL',
-      title: 'Systems Engineer',
+      title: 'System Administrator',
       logo: logoWsol,
-      start: '2017',
-      end: '2014',
+      start: '2014',
+      end: '2016',
     },
   ]
 
