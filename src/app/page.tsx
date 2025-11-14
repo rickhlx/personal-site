@@ -276,12 +276,10 @@ export default async function Home() {
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            Systems & software engineer, founder and wannabe infosec.
+            Senior systems engineer and wannabe hacker.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Ricardo, a senior engineer and entrepreneur based in New York.
-            I’m the founder of Glamer, where we are developing the Airbnb for
-            beauty professionals.
+            Hi! 👋 I'm Ricardo, a senior systems engineer based in New York.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink

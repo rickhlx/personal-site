@@ -9,10 +9,9 @@ export const metadata: Metadata = {
   title: {
     template: '%s - Ricardo Herrera',
     default:
-      'Ricardo Herrera - Systems & software engineer, founder, and wannabe infosec.',
+      'Ricardo Herrera - Systems & software engineer, founder, and wannabe hacker.',
   },
-  description:
-    'I’m Ricardo, a senior engineer and entrepreneur based in New York. I’m the founder of Glamer, where we are developing the Airbnb for beauty professionals.',
+  description: 'I’m Ricardo, a senior systems engineer based in New York.',
   alternates: {
     types: {
       'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,
