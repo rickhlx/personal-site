@@ -50,9 +50,9 @@ export default function Uses() {
         <ToolsSection title="Workstation">
           <Tool title="13” MacBook Air, M4, 24GB RAM (2025)">
             A lightweight, portable MacBook with extra RAM and the best chip on
-            the market. Who cares if it's not a "Pro"?
+            the market. Who cares if it's not a pro.
           </Tool>
-          <Tool title="Neo80 Qwertykeys Keyboard w/ Banana Split switches">
+          <Tool title="Neo80 Qwertykeys Keyboard">
             I use this thing all day, every day, might as well have a nice one.
           </Tool>
         </ToolsSection>

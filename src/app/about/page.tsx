@@ -68,10 +68,26 @@ export default function About() {
         </div>
         <div className="lg:order-first lg:row-span-2">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            I’m Ricardo Herrera, I live in New York where I build stuff.
+            I’m Ricardo Herrera. I live in New York, where I build stuff.
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
-            <p>More to come...</p>
+            <p>
+              I've always had a passion for computers and automation. Initially
+              wanting to study robotics engineering, I found my calling in
+              computer systems, engaging in both operations and programming.
+              This has proved invaluable as I continue maintaining large-scale
+              systems and supporting developers through DevOps principles.
+            </p>
+            <p>
+              In my spare time, I'm interested in photography, specifically
+              street photograhy, which brings me closer to what I consider the
+              most interesting and important subject: people.
+            </p>
+            <p>
+              Today, I continue enhancing and honing my skills as an engineer,
+              balancing my love of computers and automation with my love of
+              people.
+            </p>
           </div>
         </div>
         <div className="lg:pl-20">
