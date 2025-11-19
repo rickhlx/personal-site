@@ -1,4 +1,5 @@
 import { type Metadata } from 'next'
+import { Analytics } from '@vercel/analytics/next'
 
 import { Providers } from '@/app/providers'
 import { Layout } from '@/components/Layout'
@@ -27,6 +28,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="h-full antialiased" suppressHydrationWarning>
       <body className="flex h-full bg-zinc-50 dark:bg-black">
+        <Analytics />
         <Providers>
           <div className="flex w-full">
             <Layout>{children}</Layout>
