@@ -198,7 +198,7 @@ function Resume() {
   let resume: Array<Role> = [
     {
       company: 'Watchtower',
-      title: 'Senior Systems Engineer',
+      title: 'Senior Site Reliability Engineer',
       logo: logoWt,
       start: '2018',
       end: {
@@ -208,17 +208,17 @@ function Resume() {
     },
     {
       company: 'Olo',
-      title: 'DevOps Engineer',
+      title: 'Infrastructure Engineer',
       logo: logoOlo,
-      start: '2016',
+      start: '2017',
       end: '2018',
     },
     {
       company: 'WSOL',
       title: 'System Administrator',
       logo: logoWsol,
-      start: '2014',
-      end: '2016',
+      start: '2013',
+      end: '2017',
     },
   ]
 
@@ -280,11 +280,14 @@ export default async function Home() {
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            Computer systems engineer, software developer and thing builder.
+            I build infrastructure, platforms, and things that don't break at
+            3am.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            Hi! 👋 I'm Ricardo, a computer systems engineer based in New York
-            who loves software development and hacking stuff.
+            Hey! 👋 I'm Ricardo, an infrastructure engineer in New York. I spend
+            my days building Kubernetes platforms and keeping systems running. I
+            spend my nights building side projects and pretending my homelab
+            isn't getting out of control.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
