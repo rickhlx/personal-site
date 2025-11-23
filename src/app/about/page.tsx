@@ -110,6 +110,13 @@ export default function About() {
               Follow on GitHub
             </SocialLink>
             <SocialLink
+              href="https://www.linkedin.com/in/ricardohe"
+              icon={LinkedInIcon}
+              className="mt-4"
+            >
+              Follow on LinkedIn
+            </SocialLink>
+            <SocialLink
               href="mailto:ricardo@ricardoherrera.co"
               icon={MailIcon}
               className="mt-8 border-t border-zinc-100 pt-8 dark:border-zinc-700/40"
