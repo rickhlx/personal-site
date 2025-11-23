@@ -285,9 +285,8 @@ export default async function Home() {
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
             Hey! 👋 I'm Ricardo, an infrastructure engineer in New York. I spend
-            my days building Kubernetes platforms and keeping systems running. I
-            spend my nights building side projects and pretending my homelab
-            isn't getting out of control.
+            my days keeping systems running. I spend my nights building side
+            projects and pretending my homelab isn't getting out of control.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
