@@ -45,7 +45,7 @@ export default async function ArticlesIndex() {
 
   return (
     <SimpleLayout
-      title="Writing on computer engineering, company building, and other rumblings."
+      title="Writing on computer engineering and other rumblings."
       intro="All of my long-form thoughts on all of the things, collected in chronological order."
     >
       <div className="md:border-l md:border-zinc-100 md:pl-6 md:dark:border-zinc-700/40">
