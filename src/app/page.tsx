@@ -280,13 +280,10 @@ export default async function Home() {
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            I build infrastructure, platforms, and things that don't break at
-            3am.
+            Cloud infrastructure engineer, developer, founder and builder of things
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            Hey! 👋 I'm Ricardo, an infrastructure engineer in New York. I spend
-            my days keeping systems running. I spend my nights building side
-            projects and pretending my homelab isn't getting out of control.
+            During the day, I make sure computer systems and developers are happy, during the night I make sure I don't wake up.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
