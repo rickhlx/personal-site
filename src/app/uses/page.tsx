@@ -52,8 +52,10 @@ export default function Uses() {
             A lightweight, portable MacBook with extra RAM and the best chip on
             the market. Who cares if it's not a pro.
           </Tool>
-          <Tool title="Neo80 Qwertykeys Keyboard">
+          <Tool title="Neo80 Keyboard">
             I use this thing all day, every day, might as well have a nice one.
+            It has a bronze plate and heavy as a brick so I can also use it as a
+            weapon if needed.
           </Tool>
         </ToolsSection>
         <ToolsSection title="Development tools">
@@ -68,9 +70,14 @@ export default function Uses() {
         </ToolsSection>
         <ToolsSection title="Productivity">
           <Tool title="Obsidian">
-            Best note taking app, now enhanced with LLMs!
+            A note taking app that does not care about folder structures, one
+            day after enough backlinking I'll behold my graph view and die in
+            peace.
           </Tool>
-          <Tool title="Claude Code">Best CLI tool for the best LLM.</Tool>
+          <Tool title="Claude Code">
+            I find myself more and more gravitating to Claude code for a lot of
+            my work. MCPs have only accelerated it. It's a brave new world.
+          </Tool>
         </ToolsSection>
       </div>
     </SimpleLayout>
