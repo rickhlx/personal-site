@@ -198,7 +198,7 @@ function Resume() {
   let resume: Array<Role> = [
     {
       company: 'Watchtower',
-      title: 'Senior Site Reliability Engineer',
+      title: 'Site Reliability Engineer',
       logo: logoWt,
       start: '2018',
       end: {
