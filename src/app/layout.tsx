@@ -10,9 +10,10 @@ export const metadata: Metadata = {
   title: {
     template: '%s - Ricardo Herrera',
     default:
-      'Ricardo Herrera - Systems & software engineer, founder, and wannabe hacker.',
+      'Ricardo Herrera - Infrastructure engineer, software developer and builder of things.',
   },
-  description: 'I’m Ricardo, a senior systems engineer based in New York.',
+  description:
+    'I’m Ricardo, a computer systems engineer based in New York. SRE and DevOps evangelist with a passion for automation.',
   alternates: {
     types: {
       'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,
