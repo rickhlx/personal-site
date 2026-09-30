@@ -80,7 +80,7 @@ export default function About() {
             </p>
             <p>
               In my spare time, I'm interested in photography, specifically
-              street photograhy, which brings me closer to what I consider the
+              street photography, which brings me closer to what I consider the
               most interesting and important subject: people.
             </p>
             <p>

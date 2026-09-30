@@ -64,8 +64,8 @@ export default function Uses() {
             immersed myself more into the terminal.
           </Tool>
           <Tool title="Ghostty">
-            I’m honestly not even sure what features I get with this that aren’t
-            just part of the macOS Terminal but it’s what I use.
+            Fast, GPU-accelerated and native. It pairs nicely with Neovim and
+            gets out of my way.
           </Tool>
         </ToolsSection>
         <ToolsSection title="Productivity">
